@@ -41,13 +41,13 @@ function Nav() {
                     <div className="nav-info-items d-none d-lg-flex ">
                         <div className="nav-info align-items-center d-flex justify-content-between mx-lg-5">
                             <span className="info-icon mx-lg-3"><i className="fas fa-phone"></i></span>
-                            <p className="mb-0">+6390843080</p>
+                            <p className="mb-0">+639264600170</p>
                         </div>
                         <div className="nav-info align-items-center d-flex justify-content-between mx-lg-5">
                             <span className="info-icon mx-lg-3">
                             <i className="fas fa-mail-bulk"></i>
                             </span>
-                            <p className="mb-0">bakecheri@gmail.com</p>
+                            <p className="mb-0">sweetones@yahoo.com</p>
                         </div>
 
                         <div 
