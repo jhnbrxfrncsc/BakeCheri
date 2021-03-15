@@ -12,7 +12,7 @@ function Banner() {
                 <div className="row max-height justify-content-center align-items-center">
                     <div className="col-10 mx-auto banner text-center">
                         <h1 className="text-capitalize blck">
-                            welcome to <strong className="banner-title">BakeCheri</strong>
+                            welcome to <strong className="banner-title">SweetOnes</strong>
                         </h1>
                         <a href="#store" className="btn banner-link text-uppercase my-2">explore</a>
                     </div>
